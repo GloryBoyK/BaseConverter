@@ -89,7 +89,7 @@ public class BaseConverter {
     }
 
     /**
-     * Javadoc me
+     * Main method for class BaseConverter
      * @param args
      */
     public static void main(String[] args) {
